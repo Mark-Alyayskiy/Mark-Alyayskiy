@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Mark-Alyayskiy/Mark-Alyayskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML-#ADFF2F logoColor='#ADFF2F'">
+<img alt="HTML" src="https://img.shields.io/badge/HTML-%2300FA9A?style=for-the-badge&logo=html5"> <img alt="CSS" src="https://img.shields.io/badge/CSS-%2300FA9A?style=for-the-badge&logo=css3"> <img alt="JS" src="https://img.shields.io/badge/JS-%2300FA9A?style=for-the-badge&logo=javascript"> <img alt="TYPESCRIPT" src="https://img.shields.io/badge/TYPESCRIPT-%2300FA9A?style=for-the-badge&logo=typescript">
+<img alt="STRAPI" src="https://img.shields.io/badge/STRAPI-%2300FA9A?style=for-the-badge&logo=strapi"> <img alt="SOCKEI" src="https://img.shields.io/badge/SOCKE.IO-%FF4500?style=for-the-badge&logo=socketdotio"> <img alt="npm" src="https://img.shields.io/badge/npm-%FF4500?style=for-the-badge&logo=npm"> <img alt="yarn" src="https://img.shields.io/badge/yarn-%FF4500?style=for-the-badge&logo=yarn"> <img alt="sass" src="https://img.shields.io/badge/sass-%FF4500?style=for-the-badge&logo=sass"> <img alt="styled-components" src="https://img.shields.io/badge/styledcomponents-%FF4500?style=for-the-badge&logo=styledcomponents"> <img alt="postman" src="https://img.shields.io/badge/postman-%FF4500?style=for-the-badge&logo=postman"> 
+<img alt="trello" src="https://img.shields.io/badge/trello-%FF4500?style=for-the-badge&logo=trello"> <img alt="react" src="https://img.shields.io/badge/react-%FF4500?style=for-the-badge&logo=react"> <img alt="reactnative" src="https://img.shields.io/badge/reactnative-%FF4500?style=for-the-badge&logo=react"> <img alt="eslint" src="https://img.shields.io/badge/eslint-%FF4500?style=for-the-badge&logo=eslint">  <img alt="next.js" src="https://img.shields.io/badge/next.js-%FF4500?style=for-the-badge&logo=nextdotjs"> 
 
-
-
--->
